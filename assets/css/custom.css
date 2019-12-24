@@ -1,5 +1,12 @@
 @charset "UTF-8";
 
+้.h1, .h2 {
+    font-family: 'athiti' !important;
+}
+้h1, h2 {
+    font-family: 'athiti' !important;
+}
+
 .container-fluid-custom {
     width: 80%;
     padding-right: 15px;
@@ -52,4 +59,16 @@ img.review-img-size {
     padding: 7px;
     box-shadow: 3px 3px 6px 3px #ddd;
     border-radius: 5px;
+}
+.u-btn-primary {
+    background-color: #72c02c !important;
+}
+.font-size-1-1 {
+    font-size: 1.1rem;
+}
+.bg-content-right {
+    background-image: url(assets/img/bg/product-bg-img-01.png);
+    background-size: contain;
+    background-position: bottom right;
+    background-repeat: no-repeat;
 }
