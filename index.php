@@ -17,18 +17,19 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Athiti:600&display=swap">
 
     <!-- CSS Global Compulsory -->
-    <link rel="stylesheet" href="assets/vendor/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="https://assets.wesales.online/vendor/bootstrap/bootstrap.min.css">
 
     <!-- CSS Implementing Plugins -->
     <link rel="stylesheet" href="assets/vendor/icon-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/vendor/icon-line/css/simple-line-icons.css">
     <link rel="stylesheet" href="assets/vendor/icon-hs/style.css">
-    <link rel="stylesheet" href="assets/vendor/hamburgers/hamburgers.min.css">
-    <link rel="stylesheet" href="assets/vendor/animate.css">
-    <link rel="stylesheet" href="assets/vendor/slick-carousel/slick/slick.css">
-    <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsparallaxer.css">
-    <link rel="stylesheet" href="assets/vendor/dzsparallaxer/dzsscroller/scroller.css">
-    <link rel="stylesheet" href="assets/vendor/dzsparallaxer/advancedscroller/plugin.css">
+
+    <link rel="stylesheet" href="https://assets.wesales.online/vendor/hamburgers/hamburgers.min.css">
+    <link rel="stylesheet" href="https://assets.wesales.online/vendor/animate.css">
+    <link rel="stylesheet" href="https://assets.wesales.online/vendor/slick-carousel/slick/slick.css">
+    <link rel="stylesheet" href="https://assets.wesales.online/vendor/dzsparallaxer/dzsparallaxer.css">
+    <link rel="stylesheet" href="https://assets.wesales.online/vendor/dzsparallaxer/dzsscroller/scroller.css">
+    <link rel="stylesheet" href="https://assets.wesales.online/vendor/dzsparallaxer/advancedscroller/plugin.css">
 
     <!-- CSS Template -->
     <link rel="stylesheet" href="assets/css/styles.op-accounting.css">
@@ -602,27 +603,27 @@
     </main>
 
     <!-- JS Global Compulsory -->
-    <script src="assets/vendor/jquery/jquery.min.js"></script>
-    <script src="assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
-    <script src="assets/vendor/popper.min.js"></script>
-    <script src="assets/vendor/bootstrap/bootstrap.min.js"></script>
+    <script src="https://assets.wesales.online/vendor/jquery/jquery.min.js"></script>
+    <script src="https://assets.wesales.online/vendor/jquery-migrate/jquery-migrate.min.js"></script>
+    <script src="https://assets.wesales.online/vendor/popper.min.js"></script>
+    <script src="https://assets.wesales.online/vendor/bootstrap/bootstrap.min.js"></script>
 
     <!-- JS Implementing Plugins -->
-    <script src="assets/vendor/appear.js"></script>
-    <script src="assets/vendor/slick-carousel/slick/slick.js"></script>
-    <script src="assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
-    <script src="assets/vendor/dzsparallaxer/dzsscroller/scroller.js"></script>
-    <script src="assets/vendor/dzsparallaxer/advancedscroller/plugin.js"></script>
+    <script src="https://assets.wesales.online/vendor/appear.js"></script>
+    <script src="https://assets.wesales.online/vendor/slick-carousel/slick/slick.js"></script>
+    <script src="https://assets.wesales.online/vendor/dzsparallaxer/dzsparallaxer.js"></script>
+    <script src="https://assets.wesales.online/vendor/dzsparallaxer/dzsscroller/scroller.js"></script>
+    <script src="https://assets.wesales.online/vendor/dzsparallaxer/advancedscroller/plugin.js"></script>
 
     <!-- JS Unify -->
-    <script src="assets/js/hs.core.js"></script>
-    <script src="assets/js/components/hs.header.js"></script>
-    <script src="assets/js/helpers/hs.hamburgers.js"></script>
-    <script src="assets/js/components/hs.scroll-nav.js"></script>
-    <script src="assets/js/helpers/hs.height-calc.js"></script>
-    <script src="assets/js/components/hs.carousel.js"></script>
-    <script src="assets/js/components/hs.go-to.js"></script>
-    <script src="assets/js/components/hs.onscroll-animation.js"></script>
+    <script src="https://assets.wesales.online/js/hs.core.js"></script>
+    <script src="https://assets.wesales.online/js/components/hs.header.js"></script>
+    <script src="https://assets.wesales.online/js/helpers/hs.hamburgers.js"></script>
+    <script src="https://assets.wesales.online/js/components/hs.scroll-nav.js"></script>
+    <script src="https://assets.wesales.online/js/helpers/hs.height-calc.js"></script>
+    <script src="https://assets.wesales.online/js/components/hs.carousel.js"></script>
+    <script src="https://assets.wesales.online/js/components/hs.go-to.js"></script>
+    <script src="https://assets.wesales.online/js/components/hs.onscroll-animation.js"></script>
 
     <!-- JS Customization -->
     <script src="assets/js/custom.js"></script>
