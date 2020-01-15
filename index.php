@@ -55,7 +55,7 @@
               </h2>
                   <p class="g-font-size-16 content-indent">มีจุดเด่นเรื่อง เบาความ ความดัน ไขมัน ตาพล่ามัว ปวดข้อ-เข่า อ่อนเพลีย นอนหลับยาก ปวดหัวไมเกรน หลงๆลืมๆ โดยเฉพาะเหมาะมากสำหรับคนที่มองหาวิธีการรักษาด้วยธรรมชาติ ไม่ต้องรับประทานยาที่เสี่ยงต่อผลข้างเคียง</p>
                 </div>
-                <a class="btn u-btn-primary g-brd-2 g-brd-white g-font-size-13 g-rounded-50 g-pl-20 g-pr-15 g-py-9" href="#!">
+                <a class="btn u-btn-primary g-brd-2 g-brd-white g-font-size-13 g-rounded-50 g-pl-20 g-pr-15 g-py-9" href="#properties">
               สรรพคุณ
               <span class="align-middle u-icon-v3 g-width-16 g-height-16 g-color-black g-bg-white g-font-size-11 rounded-circle ml-3">
                 <i class="fa fa-angle-right"></i>
@@ -80,7 +80,7 @@
               </h2>
                   <p class="g-font-size-16">This is where we sit down, grab a cup of coffee and dial in the details. Understanding the task at hand and ironing out the wrinkles is key.</p>
                 </div>
-                <a class="btn u-btn-primary g-brd-2 g-brd-white g-font-size-13 g-rounded-50 g-pl-20 g-pr-15 g-py-9" href="#!">
+                <a class="btn u-btn-primary g-brd-2 g-brd-white g-font-size-13 g-rounded-50 g-pl-20 g-pr-15 g-py-9" href="#contact-purchase">
               สั่งซื้อ
               <span class="align-middle u-icon-v3 g-width-16 g-height-16 g-color-black g-bg-white g-font-size-11 rounded-circle ml-3">
                 <i class="fa fa-angle-right"></i>
@@ -101,7 +101,7 @@
                     background-position: top right;
                     background-repeat: no-repeat;"
       >
-        <div class="container g-py-60">
+        <div id="properties" class="container g-py-60">
           <div class="text-center g-mb-20">
             <h2 class="h1 g-color-primary g-font-weight-600">สรรพคุณ</h2>
             <p class="lead">น้ำมันถั่วดาวอินคาของขวัญจากธรรมชาติ เปลี่ยนสุขภาพเสียๆ ได้ดีกว่าที่คิด! <br/>ให้คิวอินคาออย์ได้ช่วยเป็นส่วนหนึ่งที่ทำให้สุขภาพดีนะคะ</p>
@@ -116,9 +116,7 @@
                   <!-- Icon Blocks -->
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">พัฒนาการด้านสมอง ป้องกันความจำเสื่อม</h3>
@@ -127,9 +125,7 @@
     
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">ลดความเสี่ยงเกิดโรคหัวใจ ควบคุมน้ำตาลในเลือด</h3>
@@ -138,9 +134,7 @@
     
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">มีสารอนุมูลอิสระสร้างภูมิคุ้มกันโรคภูมิแพ้ หอบหืด</h3>
@@ -149,9 +143,7 @@
     
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">ช่วยลดอาการเครียด ปวดหัวไมเกรน</h3>
@@ -160,9 +152,7 @@
     
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">ป้องกันระบบข้อเสื่อม ป้องกันโรคครูมาตอยด์</h3>
@@ -171,9 +161,7 @@
 
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">ลดความเสี่ยงการเกิดโรคมะเร็ง ตับ ปอด</h3>
@@ -182,9 +170,7 @@
     
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">ช่วยการทำงานของกระเพาอาหาร</h3>
@@ -193,9 +179,7 @@
     
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">ช่วยบำรุงผิวให้ชุ่มชื่น ป้องกันโรคสะเก็ดเงิน</h3>
@@ -204,9 +188,7 @@
 
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">ช่วยทำงานของระบบสายตา</h3>
@@ -215,9 +197,7 @@
 
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">ช่วยเสริมสร้างระบบกระตุ้นเซลล์เม็ดเลือด</h3>
@@ -226,9 +206,7 @@
 
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">ช่วยลดระบบคอเลสเตอรอล HDL</h3>
@@ -237,9 +215,7 @@
 
                   <div class="media g-mb-10">
                     <div class="d-flex mr-2">
-                      <span class="u-icon-v3 u-icon-size--sm g-color-white g-bg-primary rounded-circle">
-                        <i class="fa fa-leaf"></i>
-                      </span>
+                      <i class="fa fa-leaf g-color-primary g-font-size-16 g-mt-3"></i>
                     </div>
                     <div class="media-body">
                       <h3 class="h5 g-color-black mb-20 font-size-1-1">ช่วยลดระบบไตรกลีเซอไรด์ และ ความดันโลหิต</h3>
@@ -384,7 +360,7 @@
                   <!-- End Icon Blocks -->
                 </div>
                 <div class="text-center">
-                  <a class="btn btn-xl u-btn-primary g-font-size-default" href="#!">สั่งซื้อ</a>
+                  <a class="btn btn-xl u-btn-primary g-font-size-default" href="#contact-purchase">สั่งซื้อ</a>
                 </div>
               </div>
             </div>
@@ -394,200 +370,168 @@
       <!-- End Section Content -->
 
       <!-- Promo Block -->
-      <section class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall " data-options='{direction: "fromtop", animation_duration: 25, direction: "reverse"}'>
-        <!-- Parallax Image -->
-        <div class="dzsparallaxer--target w-100 u-bg-overlay g-bg-img-hero g-bg-black-opacity-0_5--after" style="height: 160%; background-image: url(assets/img/bg/bg-promo-01.jpg);"></div>
-        <!-- End Parallax Image -->
-
-        <!-- Promo Block Content -->
-        <div class="container u-bg-overlay__inner g-pt-60 g-pb-60">
-          <div class="row text-center text-uppercase g-color-white">
-            <!-- Counters -->
-            <div class="col-md-4 col-12 g-mb-50">
-              <span class="d-block g-color-white g-font-size-40">
-                <i class="fa fa-mobile"></i>
-              </span>
-              <div class="js-counter g-font-size-24 mb-2 h2">โทรศัพท์</div>
-              <a href="tel:0825982085" style="color: #fff;"><h4 class="h5 g-font-weight-300 mb-0"><u>082-598-2085</u></h4></a>
+      <section id="contact-purchase" class="g-bg-secondary g-py-30 g-pt-60">
+        <div class="container">
+          <!-- Promo Block Content -->
+          <div class="u-bg-overlay__inner">
+            <div class="row text-center text-uppercase g-color-white">
+              <!-- Counters -->
+              <div class="col-md-4 col-12">
+                <a href="tel:0825982085" style="color: #fff;"><img class="img-fluid" src="assets/img/qinca-tel_bt.png"></a>
+              </div>
+              <!-- End Counters -->
+    
+              <!-- Counters -->
+              <div class="col-md-4 col-12">
+                <a href="https://line.me/R/ti/p/%40027xszut" style="color: #fff;" target="_blank"><img class="img-fluid" src="assets/img/qinca-ln_bt.png"></a>
+              </div>
+              <!-- End Counters -->
+    
+              <!-- Counters -->
+              <div class="col-md-4 col-12">
+                <a href="https://www.facebook.com/QIncaOilThai/" style="color: #fff;" target="_blank"><img class="img-fluid" src="assets/img/qinca-fb_bt.png"></a>
+              </div>
+              <!-- End Counters -->
             </div>
-            <!-- End Counters -->
-  
-            <!-- Counters -->
-            <div class="col-md-4 col-12 g-mb-50">
-              <span class="d-block g-color-gray-white g-font-size-40 g-mb-5">
-                <img style="width: 40px;" src="assets/img/Line_A.png">
-              </span>
-              <div class="js-counter g-font-size-24 mb-2 h2">LINE</div>
-              <a href="https://line.me/R/ti/p/%40027xszut" style="color: #fff;" target="_blank"><h4 class="h5 g-font-weight-300 mb-0"><u>LINE @</u></h4></a>
-            </div>
-            <!-- End Counters -->
-  
-            <!-- Counters -->
-            <div class="col-md-4 col-12 g-mb-50">
-              <span class="d-block g-color-white g-font-size-40">
-                <i class="fa fa-facebook-official"></i>
-              </span>
-              <div class="js-counter g-font-size-24 mb-2 h2">FACEBOOK</div>
-              <a href="https://www.facebook.com/QIncaOilThai/" style="color: #fff;" target="_blank"><h4 class="h5 g-font-weight-300 mb-0"><u>Q Inca Oil Thailand - น้ำมันสกัดเย็น ลดเบาหวาน ความดัน</u></h4></a>
-            </div>
-            <!-- End Counters -->
-
           </div>
+          <!-- Promo Block Content -->
         </div>
-        <!-- Promo Block Content -->
       </section>
       <!-- End Promo Block -->
 
       <!-- Section Content -->
-      <section id="ourProjects" class="g-pt-90">
-        <div class="row" style="width: 90%; margin: 0 auto 0 auto;">
-          <div class="col-md-6">
-            <div class="text-center container g-max-width-770">
-              <h2 class="text-uppercase g-line-height-1 g-font-weight-700 g-font-size-30 g-color-gray-dark-v1 g-mb-30">รีวิวจากผู้ใช้</h2>
-            </div>
-            <div class="container">
-              <div id="carousel5" class="js-carousel js-carousel_single-item-thumbs5__thumbs text-center mx-auto g-mb-35 carousel-custom"
+      <section id="ourProjects" class="g-pt-40 g-bg-secondary">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="text-center container g-max-width-770">
+                <h2 class="text-uppercase g-line-height-1 g-font-weight-700 g-font-size-30 g-color-gray-dark-v1 g-mb-30">รีวิวจากผู้ใช้</h2>
+              </div>
+              <div class="container">
+                <div id="carousel5" class="js-carousel js-carousel_single-item-thumbs5__thumbs text-center mx-auto g-mb-35 carousel-custom"
+                    data-infinite="true"
+                    data-slides-show="1"
+                    data-autoplay="true"
+                    data-center-mode="true"
+                    data-focus-on-select="true"
+                    data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-45 g-height-45 g-font-size-30 g-color-main-light-v1 g-color-primary--hover"
+                    data-arrow-left-classes="fa fa-angle-left g-left-0 g-left-40--lg g-mt-minus-50 left-arrow-custom"
+                    data-arrow-right-classes="fa fa-angle-right g-right-0 g-right-40--lg g-mt-minus-50 right-arrow-custom"
+                    data-nav-for="#carousel6"
+                    data-responsive='[{
+                      "breakpoint": 768,
+                      "settings": {
+                        "slidesToShow": 3
+                      }
+                    }, {
+                      "breakpoint": 576,
+                      "settings": {
+                        "slidesToShow": 1
+                      }
+                    }]'>
+                  <div class="js-thumb g-px-15--sm">
+                    <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0046.jpg" alt="Image Description">
+                  </div>
+
+                  <div class="js-thumb g-px-15--sm">
+                    <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0047.jpg" alt="Image Description">
+                  </div>
+
+                  <div class="js-thumb g-px-15--sm">
+                    <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0049.jpg" alt="Image Description">
+                  </div>
+
+                  <div class="js-thumb g-px-15--sm">
+                    <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0052.jpg" alt="Image Description">
+                  </div>
+
+                  <div class="js-thumb g-px-15--sm">
+                    <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0056.jpg" alt="Image Description">
+                  </div>
+
+                  <div class="js-thumb g-px-15--sm">
+                    <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0061.jpg" alt="Image Description">
+                  </div>
+
+                  <div class="js-thumb g-px-15--sm">
+                    <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0093.jpg" alt="Image Description">
+                  </div>
+
+                  <div class="js-thumb g-px-15--sm">
+                    <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0100.jpg" alt="Image Description">
+                  </div>
+
+                  <div class="js-thumb g-px-15--sm">
+                    <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0108.jpg" alt="Image Description">
+                  </div>
+
+                  <div class="js-thumb g-px-15--sm">
+                    <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0055.jpg" alt="Image Description">
+                  </div>
+                </div>
+
+                <div id="carousel6" class="js-carousel js-carousel_single-item-thumbs5__slides text-center g-pb-50"
                   data-infinite="true"
-                  data-slides-show="1"
-                  data-autoplay="true"
-                  data-center-mode="true"
-                  data-focus-on-select="true"
-                  data-arrows-classes="u-arrow-v1 g-absolute-centered--y g-width-45 g-height-45 g-font-size-30 g-color-main-light-v1 g-color-primary--hover"
-                  data-arrow-left-classes="fa fa-angle-left g-left-0 g-left-40--lg g-mt-minus-50 left-arrow-custom"
-                  data-arrow-right-classes="fa fa-angle-right g-right-0 g-right-40--lg g-mt-minus-50 right-arrow-custom"
-                  data-nav-for="#carousel6"
-                  data-responsive='[{
-                    "breakpoint": 768,
-                    "settings": {
-                      "slidesToShow": 3
-                    }
-                  }, {
-                    "breakpoint": 576,
-                    "settings": {
-                      "slidesToShow": 1
-                    }
-                  }]'>
-                <div class="js-thumb g-px-15--sm">
-                  <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0046.jpg" alt="Image Description">
+                  data-fade="true"
+                  data-animation="linear"
+                  data-nav-for="#carousel5">
                 </div>
 
-                <div class="js-thumb g-px-15--sm">
-                  <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0047.jpg" alt="Image Description">
-                </div>
-
-                <div class="js-thumb g-px-15--sm">
-                  <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0049.jpg" alt="Image Description">
-                </div>
-
-                <div class="js-thumb g-px-15--sm">
-                  <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0052.jpg" alt="Image Description">
-                </div>
-
-                <div class="js-thumb g-px-15--sm">
-                  <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0056.jpg" alt="Image Description">
-                </div>
-
-                <div class="js-thumb g-px-15--sm">
-                  <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0061.jpg" alt="Image Description">
-                </div>
-
-                <div class="js-thumb g-px-15--sm">
-                  <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0093.jpg" alt="Image Description">
-                </div>
-
-                <div class="js-thumb g-px-15--sm">
-                  <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0100.jpg" alt="Image Description">
-                </div>
-
-                <div class="js-thumb g-px-15--sm">
-                  <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0108.jpg" alt="Image Description">
-                </div>
-
-                <div class="js-thumb g-px-15--sm">
-                  <img class="review-img-size" src="assets/img/review/o67c6ce03f7086754e8ccca08019c9bbb_42782782_190613_0055.jpg" alt="Image Description">
-                </div>
               </div>
-
-              <div id="carousel6" class="js-carousel js-carousel_single-item-thumbs5__slides text-center g-pb-50"
-                data-infinite="true"
-                data-fade="true"
-                data-animation="linear"
-                data-nav-for="#carousel5">
-              </div>
-
             </div>
-          </div>
-          
-          <div class="col-md-6 g-mb-40">
-            <div class="text-center u-heading-v8-2 g-mb-25">
-              <h2 class="h1 text-uppercase u-heading-v8__title g-font-weight-700 g-font-size-26 g-color-gray-dark-v1 g-mb-25">สั่งซื้อ</h2>
-            </div>
-  
-            <form>
-              <div class="row">
-                <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                  <input id="inputGroup1_1" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 g-rounded-20 g-px-10 g-py-13" type="text" placeholder="ชื่อผู้รับ">
-                </div>
-  
-                <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                  <input id="inputGroup1_2" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 g-rounded-20 g-px-10 g-py-13" type="tel" placeholder="หมายเลขโทรศัพท์ (ใส่เฉพาะตัวเลขเท่านั้น)">
-                </div>
-  
-                <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                  <select id="inputGroup1_3" class="form-control g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 g-rounded-20 g-px-10" style="height: 3.3rem;">
-                    <option style="padding: 10px;" value="">เลือกรายการสินค้า</option>
-                    <option value="คิว อิน คา : 1 แถม 1">1 แถม 1 : 890.-</option>
-                    <option value="คิว อิน คา : 3 แถมสบู่ 1">3 กระปุก (แถมฟรี! สบู่ 1 ก้อน) : 1,180.-</option>
-                    <option value="คิว อิน คา : 5 แถมสบู่ 2">5 กระปุก (แถมฟรี! สบู่ 2 ก้อน) : 1,900.-</option>
-                    <option value="คิว อิน คา : 5 แถม 1 กระปุก">5 กระปุก (แถมฟรี! 1 กระปุก) : 1,990.-</option>
-                    <option value="คิว อิน คา : 6 แถมสบู่ 2">6 กระปุก (แถมฟรี! สบู่ 2 ก้อน) : 2,280.-</option>
-                    <option value="คิว อิน คา : 9 แถมสบู่ 3">9 กระปุก (แถมฟรี! สบู่ 3 ก้อน) : 3,380.-</option>
-                    <option value="คิว อิน คา : 12 แถมสบู่ 3">12 กระปุก (แถมฟรี! สบู่ 3 ก้อน) : 4,380.-</option>
-                  </select>
-                </div>
-  
-                <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                  <textarea id="inputGroup1_4" class="form-control g-resize-none g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 g-rounded-20 g-px-10 g-py-13" rows="6" placeholder="ที่อยู่ : บ้านเลขที่ ถนน ซอย อาคาร หมู่บ้าน ตำบล อำเภอ จังหวัด รหัสไปรษณีย์"></textarea>
-                </div>
+            
+            <div class="col-md-6 g-mb-40">
+              <div class="text-center u-heading-v8-2 g-mb-25">
+                <h2 class="h1 text-uppercase u-heading-v8__title g-font-weight-700 g-font-size-26 g-color-gray-dark-v1 g-mb-25">สั่งซื้อน้ำมันถั่วดาวอินคา</h2>
+              </div>
+    
+              <form name="purchase-form" id="purchase-form" method="POST">
+                <div class="row">
+                  <div class="col-md-12 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">สินค้า :</label>
+                      <select name="product" id="product" class="form-control g-brd-gray-light-v4 g-brd-primary--focus rounded-3">
+                          <option value="คิว อิน คา : 1 แถม 1">1 แถม 1 : 890.-</option>
+                          <option value="คิว อิน คา : 3 แถมสบู่ 1">3 กระปุก (แถมฟรี! สบู่ 1 ก้อน) : 1,180.-</option>
+                          <option value="คิว อิน คา : 5 แถมสบู่ 2">5 กระปุก (แถมฟรี! สบู่ 2 ก้อน) : 1,900.-</option>
+                          <option value="คิว อิน คา : 5 แถม 1 กระปุก">5 กระปุก (แถมฟรี! 1 กระปุก) : 1,990.-</option>
+                          <option value="คิว อิน คา : 6 แถมสบู่ 2">6 กระปุก (แถมฟรี! สบู่ 2 ก้อน) : 2,280.-</option>
+                          <option value="คิว อิน คา : 9 แถมสบู่ 3">9 กระปุก (แถมฟรี! สบู่ 3 ก้อน) : 3,380.-</option>
+                          <option value="คิว อิน คา : 12 แถมสบู่ 3">12 กระปุก (แถมฟรี! สบู่ 3 ก้อน) : 4,380.-</option>
+                      </select>
+                  </div>
+                  <div class="col-md-6 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-70">ชื่อผู้รับ :</label>
+                      <input class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="text" name="fullname" id="fullname" placeholder="ชื่อ-นามสกุล">
+                  </div>
 
-                <div class="col-md-12 form-group g-color-gray-dark-v5 g-mb-30">
-                  <textarea id="inputGroup1_5" class="form-control g-resize-none g-font-size-default g-placeholder-inherit g-bg-white g-bg-white--focus g-theme-brd-gray-light-v1 g-rounded-20 g-px-10 g-py-13" rows="4" placeholder="รายละเอียด / หมายเหตุ (ถ้ามี)"></textarea>
+                  <div class="col-md-6 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">โทร :</label>
+                      <input class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus rounded-3 g-py-13 g-px-15" type="tel" name="mobile" id="mobile">
+                  </div>
+
+                  <div class="col-md-12 form-group g-mb-20 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-60">ที่อยู่ :</label>
+                      <textarea class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="5" name="address" id="address" placeholder="บ้านเลขที่ ถนน ซอย อาคาร หมู่บ้าน ตำบล อำเภอ จังหวัด รหัสไปรษณีย์"></textarea>
+                  </div>
+                  <div class="col-md-12 form-group g-mb-40 contact-display-inline-flex">
+                      <label class="g-color-gray-dark-v2 label-set-center-middle g-width-80">หมายเหตุ :</label>
+                      <textarea class="form-control g-color-gray-dark-v5 g-bg-white g-bg-white--focus g-brd-gray-light-v4 g-brd-primary--focus g-resize-none rounded-3 g-py-13 g-px-15" rows="5" name="description" id="description" placeholder="รายละเอียด / หมายเหตุ (ถ้ามี)"></textarea>
+                  </div>
                 </div>
-              </div>
-  
-              <div class="text-center">
-                <button class="btn u-btn-primary btn-md text-uppercase g-font-weight-700 g-font-size-12 g-rounded-30 g-px-40 g-py-15 mb-0" type="submit" role="button">ส่งข้อมูล</button>
-              </div>
+                <input type="hidden" name="redirect" id="redirect" value="https://chepose.wesales.online/thankyou.php"/>
+                <input type="hidden" name="lineid" id="lineid" value=""/>
+                <input type="hidden" name="sms" id="sms" value="1"/>
+
+                <div class="col-md-12 text-center">
+                  <button class="btn u-btn-primary btn-lg rounded-3 g-py-12 g-px-20" type="submit" role="button" disabled="" id="bt-purchase-form-submit">ส่งข้อมูลการสั่งซื้อ</button>
+                </div>
             </form>
           </div>
-
         </div>
       </section>
       <!-- End Section Content -->
 
-      <footer>
-        <div class="g-color-gray-dark-v5 g-theme-bg-gray-dark-v3">
-          <div class="container">
-            <div class="text-center text-md-left g-brd-top g-brd-gray-dark-v2 g-py-20">
-              <div class="row">
-                <div class="col-md-6 d-flex align-items-center g-mb-15 g-mb-0--md">
-                  <p class="w-100 mb-0">
-                    Copyright 2019 Qincaoil.com All Rights Reserved
-                  </p>
-                </div>
-
-                <div class="col-md-6">
-                  <ul class="list-inline float-md-right mb-0">
-                    <li class="list-inline-item g-mr-10">
-                      <a class="u-icon-v2 g-width-35 g-height-35 g-font-size-16 g-color-gray-light-v1 g-color-white--hover g-bg-primary--hover g-brd-gray-dark-v2 g-brd-primary--hover g-rounded-5" href="https://www.facebook.com/QIncaOilThai/" target="_blank"><i class="fa fa-facebook"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <div id="sec-footer"></div>
 
       <a class="js-go-to u-go-to-v1" href="#!"
          data-type="fixed"
@@ -624,6 +568,7 @@
     <script src="https://assets.wesales.online/js/components/hs.carousel.js"></script>
     <script src="https://assets.wesales.online/js/components/hs.go-to.js"></script>
     <script src="https://assets.wesales.online/js/components/hs.onscroll-animation.js"></script>
+    <script src="https://assets.wesales.online/js/footer-v1.js"></script>
 
     <!-- JS Customization -->
     <script src="assets/js/custom.js"></script>
@@ -667,4 +612,8 @@
       });
     </script>
   </body>
+
+  <script src="https://assets.wesales.online/js/purchase-form-validation.js"></script>
+  <script src="https://assets.wesales.online/js/purchase-process.js"></script>
+
 </html>
